@@ -3,7 +3,7 @@ Oasis infobyte
 
 ## 🔗 TASK 1 - LANDING PAGE  👇
 
-LIVE LINK - https://1472abhi.github.io/OIBGRIP/LANDING PAGE%2C Task-1%2C%20 Level-1
+LIVE LINK - https://1472abhi.github.io/OIBGRIP/LandingPage
 
 ## 🔗 TASK 2 - PORTFOLIO  👇
 LIVE LINK - 
