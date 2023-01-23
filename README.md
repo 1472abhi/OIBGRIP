@@ -1,7 +1,7 @@
 # OIBGRIP
 Oasis infobyte
 
-## 🔗 TASK 1 - LANDING PAGE  👇
+## 🔗 TASK 1 - LANDING PAGE  👇 
 
 LIVE LINK : https://1472abhi.github.io/OIBGRIP/LandingPage
 
