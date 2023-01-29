@@ -1,3 +1,3 @@
 ### PORTFOLIO
 
-using HTML, CSS, JS
+using HTML, CSS
