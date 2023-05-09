@@ -1,5 +1,5 @@
-# OIBGRIP
-Oasis infobyte
+# mini projects
+
 
 ## 🔗 TASK 1 - LANDING PAGE  👇  
 
